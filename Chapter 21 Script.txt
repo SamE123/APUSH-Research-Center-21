@@ -59,8 +59,8 @@ Though the book failed to inspire people to be socialists, it did help you gain 
 It will also be your [legacy].
 
 [legacy]:
-The modern Food and Drug Administration dates to the regulatory functions assigned to the Bureau of Chemistry of the Agriculture Department by the Pure Food and Drug Act of 1906. In 1938, Congress significantly expanded the regulatory functions of the 1906 law and extended FDAís authority over processed foods. In 1990 Congress passed the Nutrition Labeling and Education Act, which required food products, including processed meat, to provide basic nutritional information.
-[End Game]
+The modern Food and Drug Administration dates to the regulatory functions assigned to the Bureau of Chemistry of the Agriculture Department by the Pure Food and Drug Act of 1906. In 1938, Congress significantly expanded the regulatory functions of the 1906 law and extended FDA‚Äôs authority over processed foods. In 1990 Congress passed the Nutrition Labeling and Education Act, which required food products, including processed meat, to provide basic nutritional information.
+[[End Game]]
 
 
 
@@ -98,14 +98,76 @@ After you published the last installment of your report, the 19th, they were thr
 As the horrors in The Jungle enlightened Teddy Roosevelt, so too did the practices described helped him. They were pivotal in his initiating the trust-busting of Standard Oil, which would finally be realized in 1911, when Standard Oil was broken up under the Sherman Anti-Trust Act. You had some sembalance of justice served to the businesses and people the oil company preyed on. This was [your legacy].
 
 [your legacy]:
-You helped bring down one of the largest corporations in America. You also gave credence to the efficiacy of the muckraking movement, with words published in magazine leaping off the page to shatter a billionare. While you are female, you did not involve yourself much in the suffrage movement: in fact two other books you published, The Business of Being a Woman and The Ways of a Woman both asserted that woman only had a place in being at home. It is clear, however, that your life demonstrates that any individual, man, woman, rich, poor, can gain empowerment.  
+You helped bring down one of the largest corporations in America. You also gave credence to the efficiacy of the muckraking movement, with words published in magazine leaping off the page to shatter a billionare. While you are female, you did not involve yourself much in the suffrage movement: in fact two other books you published, The Business of Being a Woman and The Ways of a Woman both asserted that woman only had a place in being at home. It is clear, however, that your life demonstrates that any individual, man, woman, rich, poor, can gain empowerment.
+[[End Game]]
 
-[End game]:
+
+
+
+[[Eugene Debs]]:
+You are a high school drop out. At the age of 14, you left school and started working for Vandalia Railroad. You are a night fireman for the locomotive. Unhappy with your wages, you left to work at a local grocery house.
+
+Meanwhile you joined the [Brotherhood of Locomotive Firemen] and became and [active member].
+
+You were also gaining popularity in your city. You served two terms as Terre Haute's city clerk and in the fall of 1884, you were elected to the Indiana General Assembly as a democrat for one term.
+
+[Brotherhood of Locomotive Firemen]:
+A union for the benefit of railroad firemen and engineers.
+
+Though at this time you were not employed in the [railroad industry], you were passionate and energetic which allowed you to get into the union. Everyone knew you would rise to the top of the union.
+
+You were appointed as the editor of the BLF magazine. With your powerful journalist skills, you reached audience well beyond the BLF and made it the foremost labor voice of the time.
+
+[railroad industry]:
+At the time, the railroad unions were organized into seperate unions based on the proffession. This allowed the railroad industry to easily break strikes or replace those workers.
+
+You were already frustrated with the BLF and so you decided to create your own unified union for the railroad industry. In 1893 in Chicago, you founded the [American Railway Union] (ARU).
+
+[American Railway Union]:
+The ARU is also known for the Pullman Strike.
+
+The Pullman Strike was a failurea and you were sentenced to prison. In that prison, you realized that changes had to be made in the political and legal system for it to take effect in the union level.
+
+[active member]:
+After getting out of jail from you failed attempts of union striking, you convinced the American Railway Union to join the Brotherhood of Cooperative Commonwealth and found the [Socialist Party].
+
+[Socialist Party]:
+During these campaigns the Socialist Party put a number of issues on the national agenda and advanced perhaps by decades the legislation which achieved a number of objectives for working class America. The list includes giving [women the right to vote]. (Large numbers of your supporters were women). It includes legislation restricting child labor, and protecting workers' rights to join unions and when necessary to strike. It would also include workplace safety, on the railroads and in the mines and factories.
+
+[women the right to vote]:
+You were a firm advocate for women's right. This also helped you during the 1920 election, where majority of the women supported the socialists movement and for the first time were allowed to vote due to the passage of the 19th Amendment.
+
+But yet, you recieved 919,000 votes. Slightly less than the 1912 election.
+
+Maybe the reason is that you were [imprisoned] at this time and couldn't reach your audience very well.
+
+Anyways, you got out of prison and recieved the Nobel Peace Price in 1924. The rest of your life, you spent trying to recover your health which was undermined during your time in prison.
+
+You died due to heart failure in 1926 but left behind a powerful [legacy].
+
+[imprisoned]:
+The reason you are imprisoned is because you spoke against Wilson's policy. Your ideals have always been based on isolationism and anti-war.
+
+In 1918, you made a speech in Ohio, urging resistance for the military draft for World War I.
+
+You were arrested under the Espionage Act.
+
+[legacy]:
+You are seen as negative and positive at the same time. 
+
+The negative aspects against you are that you failed to grasp the realities of the economy and politics at the time, you failed five times after campaining for presidency.
+
+The positive aspects are a highly effective union leader highly effective union leader of turn-of-the-century America, a kind, big hearted and deeply loved man, respected even by prominent Terre Haute business men who chose to overlook his radical leanings. You are often cited as an example of the failure of our legal system to protect constitutional right of freedom of speech. In organized labor there is enduring respect for you as one of the giants among the pioneers of the American labor movement.
+[[End Game]]
+
+[[End Game]]:
  
 Thank You for playing!
 Created by Sammy and Amogh
 Sources:
-ìSinclair, Upton.î American Reformers (1985): Biography Reference Bank (H.W. Wilson). Web. 26 Jan. 2016.
+‚ÄúSinclair, Upton.‚Äù American Reformers (1985): Biography Reference Bank (H.W. Wilson). Web. 26 Jan. 2016.
+
+[[Play Again!]]
 
 
 
