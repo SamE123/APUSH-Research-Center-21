@@ -1,0 +1,113 @@
+
+Welcome! Please select your player to continue...
+
+[[Florence Kelley]]
+
+[[Eugene Debs]]
+
+[[Samuel Hopkins Adams]]
+
+[[Ida Tarbell]]
+
+[[Jacob Riis]]
+
+[[Upton Sinclair]]
+
+
+[[Upton Sinclair]]:
+In the fall of 1897, you entered Columbia University, where you spent three years as a special student, taking courses in [philosophy], history, literature, and music with such notable professors as Nicholas Murray Butler, James Harvey Robinson, George Edward Woodberry, and Edward MacDowell. While you were a student, you began to [write] puzzles, jokes, and captions for newspapers and magazines, earning enough money from this activity and the stories that followed to establish yourself in a rented room.
+
+[philosophy]:
+The object of criticism is materialism, not capitalism, and the mode of reform is personal purity, not collective political action. I have a dream that someday I will build up a tremendous force for the spreading of light by establishing a library of my own and others' books for the purpose of increasing helpful reading among the humble people of our land.
+
+[write]:
+For forty dollars a week, you wrote some ninety war-adventure stories for the publisher Street and Smith under the pseudonyms Lieutenant Frederick Garrison and Ensign Clarke Fitch. You married Meta Fuller, a young women who shares your vision over book composition.
+You had a son and with a mere income of a poor book writer, your relationship ended up being unhappy.
+But at this point you were introduced to [Leonard D. Abott].
+
+[Leonard D. Abott]:
+You are introduces to socialism. Inspired by the works of other such socialist who you met as a result of Abott, you decide to write a [novel].
+
+[novel]:
+The Jungle (1906) is without doubt one of the most widely read novels of the twentieth century and surely your chief claim on literary and social history. The novel is rooted ideologically in your increasing knowledge of and commitment to American socialism.
+Its imaginative genesis was the unsuccessful [strike of Chicago meatpackers] in the summer of 1904, which led you to publish in the Appeal to Reason, the leading socialist publication of the day, a militant invitation to the slaughterhouse workers to join the Socialist party as the best way to achieve [political power] and ameliorate their material condition.
+
+
+[strike of Chicago meatpackers]:
+In 1904, the Amalgamated Meat Cutters and Butcher Workmen's (AMC) attempt to unionize was foiled by the leaders' inability to join people of various ethnic groups into a unified group. To further complicate the union's problems, employers hired African Americans as strikebreakers, prompting social conflict and riots between black and white workers. The employers were right to assume that unions would have difficulty organizing across racial lines.
+This proved problematic for many years to come.
+The hardship workers endured throughout the Great Depression helped break down barriers between different ethnic groups and races, making union organizing more successful. In addition, the National Labor Relations Act of 1935 guaranteed workers the right to organize and bargain collectively and outlawed practices used by employers to discourage unionizing.
+
+[political power]:
+The stir created by the Jungle reaches all the way to the White House!
+The president, Roosevelt, is shocked and consults with the Agricultural Department for the validity of your [facts].
+
+[facts]:
+The Agricultural Department reported that the meat was safe to eat and possessed no threat....
+Roosevelt contacted your publisher, Frank Doubleday, who replied that his company had confirmed the facts.
+Roosevelt then launched his own investigation and confirmed your facts to the [political scene].
+
+[political scene]:
+Congress at this time is considering a pure food and drug bill.
+Roosevelt himself, in his 1905 message to Congress, had recommended action on the subject. However, conservative opposition to any regulation combined with opposition from drug and food-processing companies seemed likely to defeat the bill. The public outcry created by The Jungle changed the dynamic in Congress. The Senate approved the pure-food-and-drugs bill in late February by a vote of 63 to 4.
+[Meanwhile]...
+
+[Meanwhile]:
+You are disappointed that your book produced only a few meatpacking regulatory laws.
+You wanted to aim at the public's heat but instead aimed at their stomach!
+Though the book failed to inspire people to be socialists, it did help you gain a lot of popularity and international prominence at the mere age of 28.
+It will also be your [legacy].
+
+[legacy]:
+The modern Food and Drug Administration dates to the regulatory functions assigned to the Bureau of Chemistry of the Agriculture Department by the Pure Food and Drug Act of 1906. In 1938, Congress significantly expanded the regulatory functions of the 1906 law and extended FDA’s authority over processed foods. In 1990 Congress passed the Nutrition Labeling and Education Act, which required food products, including processed meat, to provide basic nutritional information.
+[End Game]
+
+
+
+
+
+
+
+[[Ida Tarbell]]:
+You were born on November 5th, 1857, in a small Pennslyvannia town. Your father worked at his own oil company, with a small group of close friends. An [event] that would haunt you for the rest of your life occured in your teens. Nonetheless, you proceeded forward to get a good [education] for woman in your time. 
+
+[event]:
+All was well in your father's business...until a shady company named the "South Improvement Company" came along. It was a front for standard oil -- and it bankrupted those like your father who refused to sell out by such illicit tactics as brokering deals with the local railroads to fix prices. In your eyes, John Rockefeller dipped his hands in not just her family's oil but in its blood. A family friend who worked with her father was driven to suicide.
+
+[education]:
+You graduated from high school with honors. She then went to Allegheny College, where she was the only woman in her class. Though she studied biology, it was here in college that she began to develop a passion for [writing].
+
+[writing]:
+You used to teach, but quit after realizing that your true interests lied in writing. You worked at a tiny magazine called The Chautauquan, eventually becoming editor. You accumulated enough cash in the position to eventually take time off to [study abroad]. 
+
+[study abroad]:
+While you attended in Paris, you continued to write freelance articles for American magazines. Soon, they came to the attention of an editor of a political and literary magazine with high readership called [McClure's]. 
+
+[McClure's]:
+You first published some timely biographies, that were very well-recieved. But your true legacy would be not in documenting what happened in the past, but what was happening in the present. Drawing on your own experiences, you began to write several installments on a [company] that destroyed your father's livelihood. 
+[company]:
+The company in question was Standard Oil, with John D. Rockefeller at its head. It was a danger to the country. Introduced to someone who used to work in Standard Oil by another [writer], you began a long interview process that went on as you published installment after installment in McClure's magazine. While the person you interviewed was a supporter of Standard Oil, he did not stop talking even after he realized that Standard Oil was being cast in a [negative light]. 
+
+[writer]:
+This writer was, interestingly enough, Mark Twain, who was the one who dubbed the term "gilded age" in the first place. 
+
+[negative light]:
+After you published the last installment of your report, the 19th, they were thrown together and published in the form of a book. Called The History of the Standard Oil Company, it influenced those as far as [Teddy Roosevelt].
+
+[Teddy Roosevelt]:
+As the horrors in The Jungle enlightened Teddy Roosevelt, so too did the practices described helped him. They were pivotal in his initiating the trust-busting of Standard Oil, which would finally be realized in 1911, when Standard Oil was broken up under the Sherman Anti-Trust Act. You had some sembalance of justice served to the businesses and people the oil company preyed on. This was [your legacy].
+
+[your legacy]:
+You helped bring down one of the largest corporations in America. You also gave credence to the efficiacy of the muckraking movement, with words published in magazine leaping off the page to shatter a billionare. While you are female, you did not involve yourself much in the suffrage movement: in fact two other books you published, The Business of Being a Woman and The Ways of a Woman both asserted that woman only had a place in being at home. It is clear, however, that your life demonstrates that any individual, man, woman, rich, poor, can gain empowerment.  
+
+[End game]:
+ 
+Thank You for playing!
+Created by Sammy and Amogh
+Sources:
+“Sinclair, Upton.” American Reformers (1985): Biography Reference Bank (H.W. Wilson). Web. 26 Jan. 2016.
+
+
+
+
+
