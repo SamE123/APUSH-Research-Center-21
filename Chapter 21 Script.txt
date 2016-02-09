@@ -1,4 +1,5 @@
 
+[[Start]]:
 Welcome! Please select your player to continue...
 
 [[Florence Kelley]]
@@ -167,7 +168,7 @@ Created by Sammy and Amogh
 Sources:
 “Sinclair, Upton.” American Reformers (1985): Biography Reference Bank (H.W. Wilson). Web. 26 Jan. 2016.
 
-[[Play Again!]]
+[[Play Again!]](Start)
 
 
 
