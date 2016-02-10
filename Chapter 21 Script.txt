@@ -1,4 +1,5 @@
 
+
 [[Start]]:
 Welcome! Please select your player to continue...
 
@@ -178,7 +179,7 @@ He said that the New York News Association is looking for a new trainee.
 
 You immediately apply and get the job. You do your job well as the newspaper editor and get a decent salary. Unfortunately, the company is bankrupt again... You decide to buy the editorial company and after a few years, you sell it and make a hefty profit.
 
-You then get a job as a police reporter at the New York Tribune. Your office was also really near to the foul core of the New York City slums. You always felt bad for the unforunate, and you thought that you had to make a difference for them.
+You then get a job as a police reporter at the New York Tribune. Your office was also really near to the foul core of the New York City slums. You always felt bad for the unforunate, and you thought that you had to make a [difference] for them.
 
 [difference]:
 Bringing about change was not easy.
@@ -226,18 +227,24 @@ Eventually, you [retire] in a small farm in Massachusetts.
 You die on May 26, 1914.
 
 But, your legacy still continues till today. The pictures you took still shocks many people and are still relevant in today's world. Also, your pioneering experience with photography opened a whole new field of flash photography, virtually revolutionized the way pictures and film are taken.
+
 [[End Game]]
 
 [[End Game]]:
  
 Thank You for playing!
+
 Created by Sammy and Amogh
+
 Sources:
-“Sinclair, Upton.” American Reformers (1985): Biography Reference Bank (H.W. Wilson). Web. 26 Jan. 2016.
+
+    “Sinclair, Upton.” American Reformers (1985): Biography Reference Bank (H.W. Wilson). Web. 26 Jan. 2016.
+
+    "Political Activist Eugene Debs." Debsfoundation.org. Eugene V. Debs Foundation, n.d. Web. 26 Jan. 2016. <http://debsfoundation.org/page/politicalactivist>.
+    
+    "Riis, Jacob A." American Reformers (1985): Biography Reference Bank (H.W. Wilson). Web. 26 Jan. 2016.
+    
+    King, Gilbert. "The Woman Who Took on the Tycoon." Smithsonian Magazine. Smithsonian Museum, 5 July 2012. Web. 26 Jan. 2016. <http://www.smithsonianmag.com/history/the-woman-who-took-on-the-tycoon-651396/?no-ist>.
+
 
 [[Play Again!]](Start)
-
-
-
-
-
