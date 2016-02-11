@@ -104,7 +104,38 @@ You helped bring down one of the largest corporations in America. You also gave 
 [[End Game]]
 
 
+[[Florence Kelly]]: 
+You were born in Pennslyvannia of Quaker and Unitarian parents coming from a strong [tradition] of shaking up the status quo. By no means impoverished, you and your father toured glass factories and witnessed the work of teenagers in horrifying conditions. Perhaps those memories shaped your views on [child labor]. At any rate, you recieved an [excellent education] that those laborers would never have.
 
+[tradition]: 
+Your father, David Kelley, was an abolitionist, involved in the founding of the Republican party, and served multiple terms in the House. Your great-aunt was also an abolitionist who made sure everyone escaped when the meeting hall she attended went up in flames. You fight for a different type of freedom, particularly against [child labor]. 
+
+[excellent education]: 
+You attended Cornell, a prestigious school even then, for six years. Though there were seperate classrooms for women, you still felt attracted to Cornell because of its promise of equal intellectual opportuniy for woman.  You graduated later than usual because of your sickly condition. Somewhat ironically, you ended up [marrying] a man studying mediciene. This man, however, you would meet while you were studying [abroad]. 
+
+[abroad]: 
+While you were abroad, studied at the University of Zurich (in Austria) and fell in love with [socialism] in Europe. The husband you would [marry] would be Polish-Russian, and you devoured Karl Marx's teachings wholly. You were so moved by the words of Eastern European socialists that you sought to bring them to England, publishing a translation of The Condition of the Working Class in England in 1844 so that English laborers could read it in English rather than German. 
+
+[marry]:
+Unfortunately, your marriage was not a happy one. You divorced him within three years. After suffering some abuse from your husband, you took your children, took back your maiden name, and ended up a resident of one of Jane Addam's recently-opened [settlement houses]. 
+
+[settlement houses]:
+In the settlement house, you lived as both a resident and a refugee. You work small-time for Jane Addams, finding work for other women at the house. With Chicago in an economic low, however, you must string together odd jobs until you catch a lucky [break]. 
+
+[break]: 
+You find employment in the Bureau of Labor Statistics. It is paid by comission, for every hand-scrawled data sheet that you produce. Nevertheless, you take pride in your work. You tour factories, much as you used to do with your father. And the report you draw up is shocking, particularly in regards to [child labor]. 
+
+[child labor]:
+You write a report that finds while working for the Bureau of Labor in Chicago that kids as young as four and five are working in tenemant factories in apalling conditions. Prior to this time, discontent had been welling up towards factories that worked children for long hours in unhealthy environments. The report, of course, is not just on child labor. It has pages and pages of interviews that show employers paying their employees minimal wages and obfuscating and outright lying in their answers to a federal commitee investigating the matter. Outrage leads to the passing of the [Factory Inspection Act] before the year is out. 
+
+[Factory Inspection Act]: 
+This law was passed on a state level, not a federal one, but it was groundbreaking nonetheless. 
+
+[socialism]: 
+
+[federal level]: 
+
+[legacy]:
 
 [[Eugene Debs]]:
 You are a high school drop out. At the age of 14, you left school and started working for Vandalia Railroad. You are a night fireman for the locomotive. Unhappy with your wages, you left to work at a local grocery house.
